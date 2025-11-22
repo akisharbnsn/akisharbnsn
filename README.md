@@ -32,7 +32,7 @@ I began my career shaping young minds, designing literacy-driven experiences, an
 Curiosity pulled me deeper into tech. I discovered how data tells stories, reveals patterns, and changes decisions. Today, I work in **Commercial Real Estate Risk** at Morgan Stanley, leading AI-driven appraisal review workflows, operational trackers, and digital transformation solutions.
 
 **AI & Analytics → Entrepreneurial Creative**  
-Beyond analytics, I build brands and experiences — from **Oshelly**, my emerging wine label, to interactive dashboards, learning tools, and event concepts. Reinvention fuels me.
+Beyond analytics, I build brands and experiences — from emerging labels, to interactive dashboards, learning tools, and event concepts. Reinvention fuels me.
 
 ---
 
@@ -42,7 +42,6 @@ Beyond analytics, I build brands and experiences — from **Oshelly**, my emergi
   <img src="https://img.shields.io/badge/TKH%20Fellowship-Data%20Science-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Appraisal%20AI-Workflow%20Automation-1F4E79?style=flat-square" />
   <img src="https://img.shields.io/badge/Power%20BI%20%26%20Tableau-Dashboards-F2C811?style=flat-square" />
-  <img src="https://img.shields.io/badge/Entrepreneurship-Oshelly-F58EAC?style=flat-square" />
 </p>
 
 - 🧠 Building machine learning foundations through **The Knowledge House**  
